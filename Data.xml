@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataList>
+	<Website>
+		<BaseUrl>https://www.google.com/</BaseUrl>
+    <Browser>chrome</Browser>
+	</Website>
+  <UPCs>
+
+  </UPCs>
+</DataList>
